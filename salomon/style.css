@@ -13,7 +13,7 @@ html {
     overflow-x: hidden;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
@@ -115,7 +115,7 @@ nav ul {
     flex-wrap: wrap;
 }
 
-nav ul li  {
+nav ul li {
     color: #0f0f16;
     text-decoration: none;
     font-size: 1rem;
@@ -190,12 +190,6 @@ nav ul li:hover {
     cursor: pointer;
 }
 
-.trail {
-    color: white;
-    font-size: 1.4rem;
-    padding-left: 1vw;
-    padding-top: 1vh;
-}
 
 .shop-by {
     display: flex;
@@ -454,6 +448,13 @@ nav ul li:hover {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762450491/download_-_2025-11-06T230420.078_lxsfwf.jpg);
 }
 
+.trail {
+    color: white;
+    font-size: 1.4rem;
+    padding-left: 1.3vw;
+    padding-top: 2vh;
+}
+
 .trail1 {
     color: white;
     font-size: 1.4rem;
@@ -698,7 +699,7 @@ nav ul li:hover {
     align-items: center;
 }
 
-.login-page{
+.login-page {
     margin-top: 7vh;
 }
 
@@ -852,13 +853,13 @@ input[type="password"]:focus {
     transform: scale(1.05);
 }
 
-.shoes-header{
+.shoes-header {
     font-size: 1rem;
     padding-top: 4vh;
     padding-left: 4vw;
 }
 
-.shoe-name{
+.shoe-name {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -869,12 +870,12 @@ input[type="password"]:focus {
     border: 1px solid #e6e6e6;
 }
 
-.shoe-name:hover{
+.shoe-name:hover {
     cursor: pointer;
     border: 1px solid black;
 }
 
-.shoes-grid1{
+.shoes-grid1 {
     display: flex;
     flex-direction: row;
     margin-left: 2vw;
@@ -883,7 +884,7 @@ input[type="password"]:focus {
     margin-top: 3vh;
 }
 
-.shoe-item1{
+.shoe-item1 {
     background-color: white;
     border-radius: 2vh;
     overflow: hidden;
@@ -897,29 +898,35 @@ input[type="password"]:focus {
 }
 
 
-.s1{
+.s1 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762528242/download_-_2025-11-07T204011.125_mvcnk0.jpg);
 }
-.s2{
+
+.s2 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762528814/download_-_2025-11-07T204942.558_uyhms8.jpg);
 }
-.s3{
+
+.s3 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762528814/download_-_2025-11-07T204942.558_uyhms8.jpg);
 }
-.s4{
+
+.s4 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762528814/download_-_2025-11-07T204942.558_uyhms8.jpg);
 }
-.s5{
+
+.s5 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762528898/download_-_2025-11-07T205109.943_qqjrgd.jpg);
 }
-.s6{
+
+.s6 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762528965/download_-_2025-11-07T205217.802_ogzpeh.jpg);
 }
-.s7{
+
+.s7 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762529041/download_-_2025-11-07T205331.859_bduoaz.jpg);
 }
 
-.shoe-name{
+.shoe-name {
     font-size: 1rem;
     padding-top: 24vh;
     padding-left: 1.9vw;
@@ -927,47 +934,48 @@ input[type="password"]:focus {
     align-items: center;
 }
 
-.gender{
+.gender {
     width: 8vw;
     height: 5vh;
     border: 2px solid #e6e6e6;
     border-radius: 25vh;
 }
 
-.gender:hover{
+.gender:hover {
     cursor: pointer;
     border: 2px solid black;
 }
-.gen{
+
+.gen {
     padding-left: 1.7vw;
     padding-top: 0.2vh;
 }
 
-.filter{
+.filter {
     width: 8vw;
     height: 5vh;
     border: 2px solid #e6e6e6;
-    border-radius: 25vh; 
+    border-radius: 25vh;
     display: flex;
     flex-direction: row;
     gap: 0.5vw;
 }
 
-.filter:hover{
+.filter:hover {
     cursor: pointer;
     border: 2px solid black;
 }
 
-.filter img{
+.filter img {
     padding-top: 0.8vh;
 }
 
-.fil{
+.fil {
     padding-left: 1.3vw;
-    padding-top: 0.3vh; 
+    padding-top: 0.3vh;
 }
 
-.category1{
+.category1 {
     display: flex;
     flex-direction: row;
     gap: 1.5vw;
@@ -975,37 +983,43 @@ input[type="password"]:focus {
     margin-left: 3vw;
 }
 
-.s-1{
+.s-1 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762619910/download_-_2025-11-08T220800.370_afcbgb.jpg);
 }
-.s-2{
+
+.s-2 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762620087/download_-_2025-11-08T220902.362_maqjhi.jpg);
 }
-.s-3{
+
+.s-3 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762620087/download_-_2025-11-08T220925.917_ymxdkr.jpg);
 }
-.s-4{
+
+.s-4 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762620087/download_-_2025-11-08T220945.846_ghtndu.jpg);
 }
-.s-5{
+
+.s-5 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762620087/download_-_2025-11-08T221027.378_lwohzz.jpg);
 }
-.s-6{
+
+.s-6 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762620086/download_-_2025-11-08T221050.585_lyustt.jpg);
 }
-.s-7{
+
+.s-7 {
     background-image: url(https://res.cloudinary.com/dagkaa1ru/image/upload/v1762620238/download_-_2025-11-08T221328.635_cbqsjw.jpg);
 }
 
-.current{
+.current {
     border: 1px solid black;
 }
 
-.member{
+.member {
     color: red;
 }
 
-.shop-header{
+.shop-header {
     margin-top: 20vh;
     border-top: 1px solid black;
 }
@@ -1134,7 +1148,7 @@ input[type="password"]:focus {
         min-width: 75vw;
     }
 
-    .color-selector{
+    .color-selector {
         padding-left: 4vw;
     }
 
@@ -1167,8 +1181,8 @@ input[type="password"]:focus {
         flex-wrap: wrap;
         gap: 2vh;
     }
-     
-    .row4{
+
+    .row4 {
         display: flex;
         flex-wrap: wrap;
     }
@@ -1192,41 +1206,55 @@ input[type="password"]:focus {
         min-height: 70vh;
     }
 
-    .login-page{
+    .login-page {
         width: 100%;
     }
 
-    .login-container{
+    .login-container {
         width: 100%;
     }
 
-    .mans{
+    .mans {
         font-size: 1.2rem;
     }
 
-    .gender{
+    .gender {
         width: 18vw;
     }
-    .gen{
+
+    .gen {
         padding-left: 2vw;
     }
-    .filter{
+
+    .filter {
         width: 18vw;
     }
 
-    .shoes-grid1{
+    .shoes-grid1 {
         display: flex;
         flex-wrap: wrap;
         flex-direction: row;
     }
 
-    .shoe-item1{
+    .shoe-item1 {
         width: 47vw;
     }
-    .row31{
+
+    .row31 {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
     }
 
+    .main-heading {
+        font-size: 2rem;
+    }
+
+    .description {
+        font-size: 1rem;
+    }
+
+    .cat1 {
+        font-size: 0.8rem;
+    }
 }
